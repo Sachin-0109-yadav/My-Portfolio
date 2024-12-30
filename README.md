@@ -1,20 +1,24 @@
-<div align="center">
-  
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Greetings &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+Welcome to my portfolio! As a passionate frontend developer, I specialize in crafting visually striking and user-friendly designs that make a lasting impression.
 
-</div>
+✨ Explore My Portfolio:
+Mobile View: Tailored for seamless browsing on any device.
+Desktop View: Optimized for clarity and enhanced user experience.
+💡 Feedback is Gold!
+Your feedback is invaluable to me! Feel free to:
 
-<p align="center">
-   As a frontend developer, I am passionate about creating visually appealing designs that capture people's attention.
-</p>
+Suggest new ideas or improvements.
+Report any issues you encounter.
+If you enjoyed exploring my portfolio or appreciate my work, leaving a ⭐ would mean the world to me.
 
-<div align="center">
-  <p align="left">➡️ Mobile View:</p>
-  <img src="https://github.com/the-shivam-gupta/the-shivam-gupta.github.io/assets/109647722/68bd7a3b-edbf-4381-9eae-e781a262481a" width="200px"/>
-  <p align="left">➡️ Desktop View:</p>
-  <img src="https://github.com/the-shivam-gupta/the-shivam-gupta.github.io/assets/109647722/da8c34c1-7978-44a3-960d-7c1d41180b81" width="800px"/>
-</div>
+About
+This is my personal portfolio website—a showcase of my work, skills, and passion for frontend development.
 
-<p align="center">
-  Your feedback is highly valued ❤️. Feel free to suggest any new ideas or report any issues you come across. If you've appreciated my work, I would be grateful if you could leave a ⭐ to show your support. Happy     coding!!!
-</p>
+Resources & Contributions
+Readme: Detailed information about the project.
+Activity: Track the latest updates and improvements.
+Stars: 🌟 0
+Watchers: 👀 1
+Forks: 🍴 0
+
+I look forward to connecting with you! Thank you for visiting, and happy coding!
+
